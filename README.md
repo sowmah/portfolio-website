@@ -21,6 +21,26 @@ Objectives:
 - To create an engaging and professional platform for presenting my skills and projects to potential employers and collaborators.
 - To demonstrate my ability to integrate backend and frontend technologies effectively.
 - To serve as a practical example of my proficiency in web application development.
+  
+#How to Run This Website Locally:
+
+1.Prerequisites:
+Ensure you have Python installed along with Django. Use the command pip install django to install Django.
+
+2.Run the Server:
+Use the following command to start the development server:
+python manage.py runserver
+
+3.Navigate to the Local Server:
+Open your browser and go to and past it following link
+http://127.0.0.1:8000
+
+4.Access Specific Pages:
+To view the base page of the website, navigate to:
+http://127.0.0.1:8000/base/
+
+
+
 
 
   
