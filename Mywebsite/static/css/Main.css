@@ -1,0 +1,21 @@
+/* h1{
+    color: red;
+} */
+
+body{
+    background-color: blueviolet;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+}
